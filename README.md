@@ -6,6 +6,8 @@
 | -------------  | --- |
 | :sparkles: Daiana       | **Calculadora**
 | :label: Tecnologias | html, css
+| :rocket: URL         | https://courageous-kelpie-70928e.netlify.app/
+
 
 ![](https://courageous-kelpie-70928e.netlify.app/#vitrinedev)
 
