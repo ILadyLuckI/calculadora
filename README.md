@@ -1,6 +1,6 @@
 # Calculadora
 
-O objetivo deste projeto foi aprender conceitos básicos sobre HTML, CSS, JavaScript.
+O objetivo deste projeto foi aprender conceitos básicos sobre HTML, CSS, JavaScript para construir uma calculadora.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
